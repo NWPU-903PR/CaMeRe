@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B
+TCGA-K6-A3WQ	426756	36314

@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B
+TCGA-B6-A40C	2907	60838

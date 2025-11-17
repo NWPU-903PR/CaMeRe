@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B	measure_of_response	label
+TCGA-HB-A43Z	60750	148124	Complete Response	1

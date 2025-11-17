@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B	measure_of_response	label
+TCGA-FJ-A871	126941	13342	Clinical Progressive Disease	0

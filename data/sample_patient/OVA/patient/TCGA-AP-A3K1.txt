@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B	measure_of_response	label
+TCGA-AP-A3K1	426756	36314	Stable Disease	0

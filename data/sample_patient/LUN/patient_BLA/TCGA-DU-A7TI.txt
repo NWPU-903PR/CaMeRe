@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B	measure_of_response	label
+TCGA-DU-A7TI	119	2578	Clinical Progressive Disease	0

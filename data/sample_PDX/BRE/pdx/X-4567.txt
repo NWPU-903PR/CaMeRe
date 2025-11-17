@@ -1,0 +1,3 @@
+Model	DrugA	DrugB	ResponseCategory	response
+X-4567	56649450	44631912	CR	1
+X-4567	44631912	6442177	CR	1

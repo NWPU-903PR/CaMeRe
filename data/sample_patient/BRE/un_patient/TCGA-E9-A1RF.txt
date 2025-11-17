@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B
+TCGA-E9-A1RF	60838	3385

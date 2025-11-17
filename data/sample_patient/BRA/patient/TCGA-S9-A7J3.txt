@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B	measure_of_response	label
+TCGA-S9-A7J3	4915	5978	Stable Disease	0

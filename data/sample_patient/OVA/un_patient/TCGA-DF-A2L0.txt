@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B
+TCGA-DF-A2L0	36314	426756

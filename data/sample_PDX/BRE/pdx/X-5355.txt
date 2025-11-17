@@ -1,0 +1,3 @@
+Model	DrugA	DrugB	ResponseCategory	response
+X-5355	56649450	44631912	PR	1
+X-5355	44631912	6442177	PR	1

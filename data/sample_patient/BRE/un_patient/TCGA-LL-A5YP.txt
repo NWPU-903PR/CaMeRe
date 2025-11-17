@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B
+TCGA-LL-A5YP	2907	31703

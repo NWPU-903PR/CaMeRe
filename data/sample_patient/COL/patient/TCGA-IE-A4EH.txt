@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B	measure_of_response	label
+TCGA-IE-A4EH	148124	60750	Complete Response	1

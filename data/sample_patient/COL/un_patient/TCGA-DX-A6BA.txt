@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B
+TCGA-DX-A6BA	6442177	155801574

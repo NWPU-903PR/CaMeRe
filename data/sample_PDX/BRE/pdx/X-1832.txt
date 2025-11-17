@@ -1,0 +1,3 @@
+Model	DrugA	DrugB	ResponseCategory	response
+X-1832	56649450	44631912	PD	0
+X-1832	44631912	6442177	PD	0

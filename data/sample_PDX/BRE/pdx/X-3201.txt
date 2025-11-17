@@ -1,0 +1,3 @@
+Model	DrugA	DrugB	ResponseCategory	response
+X-3201	56649450	44631912	SD-->PD	0
+X-3201	44631912	6442177	SD-->PD	0

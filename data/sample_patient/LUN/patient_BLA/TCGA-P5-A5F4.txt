@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B	measure_of_response	label
+TCGA-P5-A5F4	5978	4915	Partial Response	1

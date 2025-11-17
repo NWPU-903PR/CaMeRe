@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B
+TCGA-E2-A14X	9933475	60838

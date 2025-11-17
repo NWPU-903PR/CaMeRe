@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B
+TCGA-A5-A3LO	36314	426756

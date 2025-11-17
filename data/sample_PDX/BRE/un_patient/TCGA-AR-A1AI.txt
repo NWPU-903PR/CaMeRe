@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B
+TCGA-AR-A1AI	2907	60838

@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B	measure_of_response	label
+TCGA-AF-6136	135403648	3385	Stable Disease	0

@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B	measure_of_response	label
+TCGA-EB-A6QY	426756	135398738	Complete Response	1

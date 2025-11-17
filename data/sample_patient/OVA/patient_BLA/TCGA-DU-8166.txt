@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B	measure_of_response	label
+TCGA-DU-8166	3950	4915	Stable Disease	0

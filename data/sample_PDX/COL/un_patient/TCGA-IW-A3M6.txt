@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B
+TCGA-IW-A3M6	60750	148124

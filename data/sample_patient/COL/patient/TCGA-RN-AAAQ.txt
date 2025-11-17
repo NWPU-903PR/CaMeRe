@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B	measure_of_response	label
+TCGA-RN-AAAQ	31703	3690	Partial Response	1

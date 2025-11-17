@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B
+TCGA-AX-A06F	426756	36314

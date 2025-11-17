@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B
+TCGA-EW-A1PD	426756	148124

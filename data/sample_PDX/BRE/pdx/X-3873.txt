@@ -1,0 +1,3 @@
+Model	DrugA	DrugB	ResponseCategory	response
+X-3873	56649450	44631912	PR	1
+X-3873	44631912	6442177	PR	1

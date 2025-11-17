@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B
+TCGA-BH-A0B3	2907	60838

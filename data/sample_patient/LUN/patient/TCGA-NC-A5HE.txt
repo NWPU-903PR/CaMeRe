@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B	measure_of_response	label
+TCGA-NC-A5HE	2907	5746	Complete Response	1

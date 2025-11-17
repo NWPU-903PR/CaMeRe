@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B
+TCGA-36-1568	426756	36314

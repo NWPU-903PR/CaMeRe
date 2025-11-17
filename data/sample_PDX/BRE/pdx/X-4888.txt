@@ -1,0 +1,3 @@
+Model	DrugA	DrugB	ResponseCategory	response
+X-4888	56649450	44631912	PR	1
+X-4888	44631912	6442177	SD	0

@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B
+TCGA-59-2363	38904	36314

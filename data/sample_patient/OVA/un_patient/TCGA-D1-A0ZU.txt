@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B
+TCGA-D1-A0ZU	426756	36314

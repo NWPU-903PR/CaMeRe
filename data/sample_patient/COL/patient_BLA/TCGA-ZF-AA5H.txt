@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B	measure_of_response	label
+TCGA-ZF-AA5H	60750	2907	Clinical Progressive Disease	0

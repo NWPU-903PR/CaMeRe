@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B	measure_of_response	label
+TCGA-QH-A65V	3950	5978	Stable Disease	0

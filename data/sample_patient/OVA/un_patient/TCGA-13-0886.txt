@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B
+TCGA-13-0886	426756	36314

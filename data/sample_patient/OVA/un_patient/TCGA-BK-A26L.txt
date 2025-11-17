@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B
+TCGA-BK-A26L	426756	36314

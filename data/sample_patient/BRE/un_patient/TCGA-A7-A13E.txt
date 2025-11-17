@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B
+TCGA-A7-A13E	2907	60838

@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B	measure_of_response	label
+TCGA-N7-A4Y8	36314	426756	Stable Disease	0

@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B
+TCGA-06-0152	4915	2733526

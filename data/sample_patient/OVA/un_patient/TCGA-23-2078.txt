@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B
+TCGA-23-2078	36314	426756

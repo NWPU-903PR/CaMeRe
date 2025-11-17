@@ -1,0 +1,2 @@
+Patients	Drug_A	Drug_B
+TCGA-CM-6675	3385	135403647
