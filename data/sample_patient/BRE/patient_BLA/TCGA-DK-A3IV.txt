@@ -1,2 +1,0 @@
-Patients	Drug_A	Drug_B	measure_of_response	label
-TCGA-DK-A3IV	60750	2907	Clinical Progressive Disease	0

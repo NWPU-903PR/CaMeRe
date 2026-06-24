@@ -1,2 +1,0 @@
-Patients	Drug_A	Drug_B
-TCGA-E9-A1N5	3385	9933475

@@ -1,3 +1,0 @@
-Model	DrugA	DrugB	ResponseCategory	response
-X-5502	56649450	44631912	SD	0
-X-5502	44631912	6442177	PR	1

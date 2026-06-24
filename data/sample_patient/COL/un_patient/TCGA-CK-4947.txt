@@ -1,2 +1,0 @@
-Patients	Drug_A	Drug_B
-TCGA-CK-4947	3385	5746

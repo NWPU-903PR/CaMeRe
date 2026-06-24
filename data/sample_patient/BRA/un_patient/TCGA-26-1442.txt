@@ -1,2 +1,0 @@
-Patients	Drug_A	Drug_B
-TCGA-26-1442	12047567	5394

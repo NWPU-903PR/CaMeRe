@@ -1,2 +1,0 @@
-Patients	Drug_A	Drug_B
-TCGA-44-5643	36314	426756

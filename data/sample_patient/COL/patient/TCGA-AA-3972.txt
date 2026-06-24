@@ -1,2 +1,0 @@
-Patients	Drug_A	Drug_B	measure_of_response	label
-TCGA-AA-3972	60953	5746	Clinical Progressive Disease	0

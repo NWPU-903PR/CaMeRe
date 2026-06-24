@@ -1,2 +1,0 @@
-Patients	Drug_A	Drug_B	measure_of_response	label
-TCGA-C4-A0EZ	426756	36462	Partial Response	1

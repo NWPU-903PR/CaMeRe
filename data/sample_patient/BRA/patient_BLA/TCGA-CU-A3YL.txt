@@ -1,2 +1,0 @@
-Patients	Drug_A	Drug_B	measure_of_response	label
-TCGA-CU-A3YL	60750	2907	Complete Response	1

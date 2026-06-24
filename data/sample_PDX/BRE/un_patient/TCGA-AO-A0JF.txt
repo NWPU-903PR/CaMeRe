@@ -1,2 +1,0 @@
-Patients	Drug_A	Drug_B
-TCGA-AO-A0JF	60838	2907

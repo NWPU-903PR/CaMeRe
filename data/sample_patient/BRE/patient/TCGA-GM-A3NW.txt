@@ -1,2 +1,0 @@
-Patients	Drug_A	Drug_B	measure_of_response	label
-TCGA-GM-A3NW	2907	41867	Stable Disease	0

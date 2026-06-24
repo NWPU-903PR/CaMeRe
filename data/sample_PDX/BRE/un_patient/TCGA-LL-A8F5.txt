@@ -1,2 +1,0 @@
-Patients	Drug_A	Drug_B
-TCGA-LL-A8F5	9933475	443939

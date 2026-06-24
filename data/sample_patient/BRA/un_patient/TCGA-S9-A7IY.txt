@@ -1,2 +1,0 @@
-Patients	Drug_A	Drug_B
-TCGA-S9-A7IY	4915	5978

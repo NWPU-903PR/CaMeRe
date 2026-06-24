@@ -1,3 +1,0 @@
-Model	DrugA	DrugB	ResponseCategory	response
-X-1921	56649450	44631912	SD-->-->PD	0
-X-1921	44631912	6442177	SD	0

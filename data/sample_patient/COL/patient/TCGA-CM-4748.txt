@@ -1,2 +1,0 @@
-Patients	Drug_A	Drug_B	measure_of_response	label
-TCGA-CM-4748	5790	135403647	Stable Disease	0

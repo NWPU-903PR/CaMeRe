@@ -1,2 +1,0 @@
-Patients	Drug_A	Drug_B
-TCGA-A2-A1FW	31703	2907

@@ -1,0 +1,87 @@
+paths:
+  save_logs: logs_pdx_w/
+  save_models: saved_models_pdx_w/
+  save_results: results_pdx/
+  fpath: data/feature/
+
+training:
+  meta_batch_size: 20
+  epochs: 1500
+  num_inner_updates: 1
+  inter: 5
+  inter_val: 5
+  inner_lr: 0.000078
+  milestones: [100, 600, 1200]
+  seed: 24
+  optimize: ADAM
+
+learning_rate:
+  lr_c_a: 0.001
+  lr_l_a: 0.001
+  lr_d_a: 0.001
+  lr_t_a: 0.0005
+
+  lr_c_s: 1
+  lr_l_s: 1
+  lr_d_s: 1
+  lr_t_s: 1
+
+weight_decay:
+  wdc: 0.00005
+  wdl: 0.00005
+  wdd: 0.00005
+
+loss:
+  lamda_pa: [1, 0.5, 1, 0.5, 1, 1, 1, 1, 0.5, 1, 0.5, 1, 1, 1]
+  lamda_task: 0.5
+  lamda_dis: 0.1
+  lamda_kl: 0.001
+  lamda_kl_s: 0.0001
+  lamda_kl_s1: 0.0001
+
+model:
+  batnorm: "true"
+
+data:
+  mean_backdoor: 8
+  gpu: 1
+  tnt: 1
+
+  cnt: 3
+  ssn: 100
+  num_task: 5
+
+  cntq: 2
+  sqn: 50
+
+  usn: 6
+  qsn: 10
+  qst: 1000
+
+  num_rep: 10
+  num_rep_val: 1
+
+object:
+  object: pdx
+  object_val: cell
+
+tissues:
+  default: ["COL"]
+
+tissue_specific:
+  COL:
+    lamda_kl: 0.01
+    lamda_pa: [1, 0.5, 1, 0.5, 1, 1, 1, 1, 0.5, 1, 0.5, 1, 1, 1]
+    milestones: [100, 600, 1200]
+    inner_lr: 0.000078
+    lr_c_a: 0.001
+    lr_l_a: 0.001
+    lr_d_a: 0.001
+    lr_t_a: 0.0005
+    lr_c_s: 1
+    lr_l_s: 1
+    lr_d_s: 1
+    lr_t_s: 1
+    lamda_task: 0.5
+    gpu: 1
+    batnorm: "true"

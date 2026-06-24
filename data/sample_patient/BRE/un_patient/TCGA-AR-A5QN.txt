@@ -1,2 +1,0 @@
-Patients	Drug_A	Drug_B
-TCGA-AR-A5QN	148124	2907

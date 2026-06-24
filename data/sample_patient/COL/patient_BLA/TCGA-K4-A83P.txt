@@ -1,2 +1,0 @@
-Patients	Drug_A	Drug_B	measure_of_response	label
-TCGA-K4-A83P	38904	60750	Clinical Progressive Disease	0

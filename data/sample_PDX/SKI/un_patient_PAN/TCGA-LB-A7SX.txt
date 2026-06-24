@@ -1,2 +1,0 @@
-Patients	Drug_A	Drug_B
-TCGA-LB-A7SX	60750	36314

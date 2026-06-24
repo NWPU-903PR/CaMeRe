@@ -1,2 +1,0 @@
-Patients	Drug_A	Drug_B	measure_of_response	label
-TCGA-XF-A9SK	60750	8343	Partial Response	1

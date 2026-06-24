@@ -1,2 +1,0 @@
-Patients	Drug_A	Drug_B
-TCGA-02-0055	5394	5394

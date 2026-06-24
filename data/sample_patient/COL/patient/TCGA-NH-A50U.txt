@@ -1,2 +1,0 @@
-Patients	Drug_A	Drug_B	measure_of_response	label
-TCGA-NH-A50U	135403647	9887053	Partial Response	1

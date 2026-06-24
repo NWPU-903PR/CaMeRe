@@ -1,3 +1,0 @@
-Patients	Drug_A	Drug_B	measure_of_response	label
-TCGA-E1-A7Z4	5426	2907	Clinical Progressive Disease	0
-TCGA-E1-A7Z4	5394	2733526	Stable Disease	0

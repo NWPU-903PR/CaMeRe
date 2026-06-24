@@ -1,2 +1,0 @@
-Patients	Drug_A	Drug_B	measure_of_response	label
-TCGA-LL-A7SZ	31703	9933475	Complete Response	1

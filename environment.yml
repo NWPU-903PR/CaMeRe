@@ -1,0 +1,20 @@
+name: CaMeRe
+channels:
+  - pytorch
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - cudatoolkit=11.0.221=h6bb024c_0
+  - python=3.6.13=h12debd9_1
+  - pytorch=1.7.0=py3.6_cuda11.0.221_cudnn8.0.3_0
+  - rdkit=2019.09.3=py36he9dd633_1
+  - pip:
+    - pandas==1.1.5
+    - pytorchtools==0.0.2
+    - scikit-learn==0.24.2
+    - scipy==1.5.4
+    - torch-cluster==1.5.8
+    - torch-geometric==1.6.1
+    - torch-scatter==2.0.5
+    - torch-sparse==0.6.8

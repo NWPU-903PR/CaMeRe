@@ -1,2 +1,0 @@
-Patients	Drug_A	Drug_B
-TCGA-EW-A1OV	41867	2907

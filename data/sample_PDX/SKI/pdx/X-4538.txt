@@ -1,4 +1,0 @@
-Model	DrugA	DrugB	ResponseCategory	response
-X-4538	16654980	50922675	PR-->-->PD	0
-X-4538	44631912	50922675	PR-->-->PD	0
-X-4538	50922675	10288191	PR-->-->PD	0
